@@ -1,0 +1,72 @@
+# --- Temporary and backup files ---
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.tmp
+*~
+_autosave*
+*.autosave
+*.zip
+*.rar
+*.tar.gz
+
+# --- Automatically generated files by KiCad ---
+*.net
+*.xml
+*.cmp
+*.pro
+*.sch-bak
+*.dsn
+*.ses
+*.gbrjob
+*.dcm
+*.cache.lib
+sym-lib-table-bak
+fp-lib-table-bak
+
+# --- Simulation and export output ---
+*.csv
+*.step
+*.stp
+*.wrl
+*.3dshapes/*
+*.gerber/*
+*.gbr
+*.drl
+*.map
+*.pos
+*.rpt
+*.pdf
+*.ps
+*.svg
+
+# --- Project folders (output / temp / fabrication) ---
+/backup/
+/exports/
+/fabrication/
+/out/
+/output/
+/temp/
+/build/
+/simulation/
+/plot/
+
+# --- System and OS-specific files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs and reports ---
+*.log
+*.error
+*.warnings
+*.err
+*.drc
+*.erc
+
+# --- User-specific KiCad environment files ---
+*.kicad_prl
+*.kicad_wks~
+*.kicad_pcb.kicad_sch.save
+*.kicad_pcb.save
+*.kicad_sch.save
