@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "LMR33630ARNXR" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "LMR33630CRNXT" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 2.54 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "LMR33630ARNXR" (id 1) (at 0 0 0)
+    (property "Value" "LMR33630CRNXT" (id 1) (at 0 0 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "RNX0012B" (id 2) (at 0 0 0)
@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.ti.com/lit/gpn/lmr33630" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "ki_keywords" "LMR33630ARNXR" (id 4) (at 0 0 0)
+    (property "ki_keywords" "LMR33630CRNXT" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_locked" "" (id 5) (at 0 0 0)
@@ -21,7 +21,7 @@
     (property "ki_fp_filters" "RNX0012B" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LMR33630ARNXR_0_1"
+    (symbol "LMR33630CRNXT_0_1"
       (polyline
         (pts
           (xy -15.24 -20.32)

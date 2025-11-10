@@ -1,6 +1,6 @@
 (footprint "RNX0012B" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tags "LMR33630ARNXR ")
+  (tags "LMR33630CRNXT ")
   (attr smd)
   (fp_text reference "REF**" (at 0 0 unlocked) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
