@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "NUCLEO_L432KC")(type "KiCad")(uri "/Users/mateuszwitczak/Documents/KiCad/SolarCore/Elements/NUCLEO_L432KC")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "/Users/mateuszwitczak/Documents/KiCad/SolarCore/Elements/ul_LMR33630CRNXT/footprints.pretty")(options "")(descr ""))
+  (lib (name "282857-2")(type "KiCad")(uri "/Users/mateuszwitczak/Documents/KiCad/SolarCore/Elements/282857-2")(options "")(descr ""))
 )
